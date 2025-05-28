@@ -1,7 +1,7 @@
 ## Hi there 👋
 # HIL Testing Engineer | Data Analyst and Data Scientist in process
 
-- 🔭 I’m currently working on: Validate the automotive testing evidence via Python scripts and libraries as OpenCV, Pandas, NumPy, Matplotlib,  Scikit-learn, Seaborn, SciPy, TensorFlow and SQL in the Automotive sector.
+- 🔭 I’m currently working on: Validate the automotive testing evidence via Python scripts and libraries as OpenCV, Pandas, NumPy, Matplotlib,  Scikit-learn, Seaborn, SciPy, TensorFlow and SQL in the Automotive sector to increase productivity and decrease human error and delivery time.
 - 🌱 I’m currently learning Data Analysis and Data Science.
 - 👯 I’m looking to collaborate on Data Analysis and Data Science projects.
 - 📫 How to reach me:
