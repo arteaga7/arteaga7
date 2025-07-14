@@ -1,5 +1,8 @@
-## Hi there 👋
-# HIL Testing Engineer | Data Analyst | Data Scientist in process
+<img width="1063" height="452" alt="banner3" src="https://github.com/user-attachments/assets/cc71839d-99c2-455d-8c0b-2b37e643c01b" />
+
+
+## Hi, I'm Antonio Arteaga 👋
+# Data Scientist | Data Analyst
 
 - 🔭 I’m currently working on: Validate the automotive testing evidence via Python scripts and libraries as OpenCV, Pandas, NumPy, Matplotlib,  Scikit-learn, Seaborn, SciPy, TensorFlow and SQL in the Automotive sector to increase productivity and decrease human error and delivery time.
 - 🌱 I’m currently learning Data Analysis and Data Science.
