@@ -14,7 +14,6 @@
   </a>
 </div>
 
-
 ---
 
 <h1 align="center">
@@ -46,11 +45,9 @@
     <img decoding="async" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
     <img decoding="async" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="tableau"/>
     <img decoding="async" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-    <img decoding="async" src="https://img.shields.io/badge/C%2FC%2B%2B-blue" alt="C"/>
     <img decoding="async" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
     <img decoding="async" src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="matplotlib"/>
     <img decoding="async" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/>
-    
 </div>
 
 ---
@@ -58,8 +55,8 @@
 ### 📫 Let's Connect!
 - **Email:** cruz.antonio.a.e@gmail.com
 - **Celphone:** (+52) 5539589708
-- **LinkedIn:** [linkedin.com/in/daleroba](https://www.linkedin.com/in/antonioarteaga-datascientist/)
-- **YouTube:** [@danielleonardorobeltobayon1266](https://www.youtube.com/@robotica9066)
+- **LinkedIn:** [linkedin.com/in/antonioarteaga-datascientist](https://www.linkedin.com/in/antonioarteaga-datascientist/)
+- **YouTube:** [@robotica9066](https://www.youtube.com/@robotica9066)
 - **Portfolio:** *Coming Soon!*
 
 ---
@@ -69,24 +66,3 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noelianav91&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelianav91&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<img width="1063" height="452" alt="banner3" src="https://github.com/user-attachments/assets/cc71839d-99c2-455d-8c0b-2b37e643c01b" />
-
-
-## Hi, I'm Antonio Arteaga 👋
-# Data Scientist | Data Analyst
-
-- 🔭 I’m currently working on: Validate the automotive testing evidence via Python scripts and libraries as OpenCV, Pandas, NumPy, Matplotlib,  Scikit-learn, Seaborn, SciPy, TensorFlow and SQL in the Automotive sector to increase productivity and decrease human error and delivery time.
-- 🌱 I’m currently learning Data Analysis and Data Science.
-- 👯 I’m looking to collaborate on Data Analysis and Data Science projects.
-- 📫 How to reach me:
-- http://www.linkedin.com/in/cruz-antonio-arteaga-escamilla
-- cruz.antonio.a.e@gmail.com
-- https://www.youtube.com/@robotica9066
-
-# Skills:
-![Static Badge](https://img.shields.io/badge/Python-green)
-![Static Badge](https://img.shields.io/badge/SQL-pink)
-![Static Badge](https://img.shields.io/badge/C%2FC%2B%2B-blue)
-![Static Badge](https://img.shields.io/badge/ROS-gray)
