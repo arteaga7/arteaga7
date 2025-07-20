@@ -22,7 +22,7 @@
 </h1>
 
 <p align="center">
-  Welcome! I am a <strong>Mechatronic Engineer, Data Scientist, Data Analyst with Ph.D and Master degree.</strong> I am passionate about applying mathematics to data science tasks, especially in creating machine learning models. Below, you'll find more about me, my skills, and the projects I'm working on.
+  Welcome! I am a <strong>Data Scientist, Mechatronic Engineer, Data Analyst (Data Visualization, Data Storytelling, Machine Learning, Python, SQL) </strong>with Ph.D and Master degree. I am passionate about applying mathematics to data science tasks, especially in creating machine learning models. Below, you'll find more about me, my skills, and the projects I'm working on.
 </p>
 
 ---
@@ -36,7 +36,7 @@
 
 ### 🛠️ Technical Skills
 - **Programming Languages:** Python, SQL, C/C++
-- **Data Science:** Pandas, OpenCV, NumPy, Matplotlib, Seaborn, SciPy, Scikit-learn, TensorFlow, Keras
+- **Data Science:** Pandas, OpenCV, NumPy, Matplotlib, Seaborn, SciPy, Scikit-learn, TensorFlow, Keras, Pytorch
 - **Visualization Tools:** Tableau
 - **Cloud Platforms:** AWS, Jira
 
