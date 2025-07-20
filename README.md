@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/user-attachments/assets/cc71839d-99c2-455d-8c0b-2b37e643c01b" width="800"  height= "300" alt="Antonio Arteaga - Data Scientist, Data Analyst"/>
+  <img decoding="async" src="https://github.com/user-attachments/assets/9200d561-e6f4-499b-8349-a318ef12c4a1" width="800"  height= "300" alt="Antonio Arteaga - Data Scientist, Data Analyst"/>
 </div>
 
 <div id="badges" align="center">
